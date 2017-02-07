@@ -1,0 +1,130 @@
+.wrapper {
+	width: 1140px;
+	margin-left: 10%;
+}
+
+.project-name {
+	margin: 5px 0px;
+	font-family: Roboto;
+	font-size: 24px;
+}
+
+.navigation {
+	margin: 5px 0px;
+	width: 100%;
+	background-color: #d5d5d5;
+	border-radius: 3px;
+}
+
+.navigation a {
+	width: 16%;
+	display: inline-block;
+	text-align: center;
+	font-family: Roboto;
+	color: #777777;
+	text-decoration: none;
+	font-size: 14px;
+	padding: 20px 0px;
+	background: linear-gradient(#f5f5f5, #e5e5e5);
+	border-width: 1px;
+	border-top-color: #cccccc;
+	border-bottom-color: #d5d5d5;
+}
+
+.navigation a:hover {
+	width: 16%;
+	display: inline-block;
+	font-family: Roboto;
+	color: #777777;
+	text-decoration: none;
+	font-size: 14px;
+	padding: 20px 0px;
+	background-color: grey;
+	border-width: 1px solid red;
+}
+
+.navigation a:active {
+	width: 16%;
+	display: inline-block;
+	font-family: Roboto;
+	background-color: #cccccc;
+	color: #777777;
+	text-decoration: none;
+	font-size: 14px;
+	padding: 20px 0px;
+	border-width: 1px;
+	border-top-color: #cccccc;
+	border-bottom-color: #d5d5d5;
+}
+
+.navigation a:focus {
+	width: 16%;
+	display: inline-block;
+	font-family: Roboto;
+	background-color: #cccccc;
+	color: #777777;
+	text-decoration: none;
+	font-size: 14px;
+	padding: 20px 0px;
+	border-width: 1px;
+	border-top-color: #cccccc;
+	border-bottom-color: #d5d5d5;
+}
+
+.h1 {
+	font-size: 62px;
+	font-family: Roboto;
+	margin: 5px;
+}
+
+p {
+	font-family: Roboto;
+}
+
+h2 {
+	font-family: Roboto
+}
+
+.content {
+	text-align: center;
+	margin: 5px 0px;
+	padding: 60px 0px;
+}
+
+.content button {
+	background-color: #5cb85c;
+	color: white;
+	border-radius: 10px;
+	font-family: Roboto;
+	padding: 20px 25px;
+	font-size: 20px;
+	border-width: 0px;
+}
+
+.information {
+	width: 100%;
+	margin: 5px 0px;
+
+}
+
+.information .safari {
+	padding: 10px;
+	display: inline-block;
+	width: 30%;
+	vertical-align: top;
+}
+
+.safari button {
+	background-color: #337ab7;
+	color: white;
+	border-radius: 5px;
+	font-family: Roboto;
+	padding: 10px 15px;
+	font-size: 14px;
+	border-width: 0px;
+}
+
+.footer {
+	border-top: 1px solid grey;
+	padding: 20px 0px;
+}
